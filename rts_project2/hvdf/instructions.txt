@@ -1,0 +1,21 @@
+-> This folder contains the files for edf-hvdf simulator.
+
+-> The input file is ‘question1_taskset.txt’.
+
+-> The output is written to ‘hvdf_output.txt’.
+
+-> Before running the simulators pleaseput the input file in this directory and if that does not work then change the path to the input file and path to the output file in the source code edf_hvdf.c
+
+-> It has been indicated in the source codes rm.c and edf.c where the path to the input file and path to the output file has to be changed.
+
+-> Before compiling the simulator, download the GCC for windows.
+
+-> To compile the edf_hvdf simulator type the following command on the command line in the current directory:
+	gcc my_func.c edf_hvdf.c -o hvdf
+and then run the simulator using:
+	hvdf.exe
+		
+-> The code was run and tested on Windows 10. Therefore, please compile and run the simulator on windows 10.
+
+***GCC for windows can be downloaded from this link:
+https://sourceforge.net/projects/mingw-w64/ 

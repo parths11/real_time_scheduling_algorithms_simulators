@@ -1,0 +1,12 @@
+lock_instant, curr_pio, prio_inherit
+5.750000, 1, self
+29.750000, 1, self
+53.750000, 1, self
+77.750000, 1, self
+101.750000, 1, self
+125.750000, 1, self
+149.750000, 1, self
+173.750000, 1, self
+197.750000, 1, self
+221.750000, 1, self
+245.750000, 1, self

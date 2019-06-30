@@ -1,0 +1,282 @@
+0  Task 3
+1  Task 3
+2  Task 3
+3  Task 3
+4  Task 3
+5  Aperiodic Task 1
+6  Aperiodic Task 1
+7  Task 4
+8  Task 4
+9  Task 4
+10  Task 3
+11  Task 3
+12  Task 3
+13  Task 3
+14  Task 3
+15  Aperiodic Task 2
+16  Aperiodic Task 2
+17  Task 2
+18  Task 2
+19  Task 2
+20  Task 3
+Task 2 pre-empted
+21  Task 3
+22  Task 3
+23  Task 3
+24  Task 3
+25  Task 2
+26  Task 2
+27  Task 1
+Task 2 pre-empted
+28  Task 1
+29  Task 1
+30  Task 3
+Task 1 pre-empted
+31  Task 3
+32  Task 3
+33  Task 3
+34  Task 3
+35  Aperiodic Task 2
+36  Aperiodic Task 2
+37  Task 4
+38  Task 4
+39  Task 4
+40  Task 3
+41  Task 3
+42  Task 3
+43  Task 3
+44  Task 3
+45  Aperiodic Task 2
+46  Aperiodic Task 2
+47  Task 2
+48  Task 2
+49  Task 2
+50  Task 3
+Task 2 pre-empted
+51  Task 3
+52  Task 3
+53  Task 3
+54  Task 3
+55  Task 2
+56  Task 2
+57  Task 1
+Task 2 pre-empted
+58  Task 1
+59  Task 1
+60  Task 3
+Task 1 pre-empted
+61  Task 3
+62  Task 3
+63  Task 3
+64  Task 3
+65  Aperiodic Task 2
+66  Aperiodic Task 2
+67  Task 4
+68  Task 4
+69  Task 4
+70  Task 3
+Task 1 dropped
+71  Task 3
+72  Task 3
+73  Task 3
+74  Task 3
+75  Aperiodic Task 3
+76  Aperiodic Task 3
+77  Task 1
+78  Task 1
+79  Task 1
+80  Task 3
+Task 1 pre-empted
+81  Task 3
+82  Task 3
+83  Task 3
+84  Task 3
+85  Task 2
+86  Task 2
+87  Task 2
+88  Task 2
+89  Task 2
+90  Task 3
+91  Task 3
+92  Task 3
+93  Task 3
+94  Task 3
+95  Aperiodic Task 3
+96  Aperiodic Task 3
+97  Task 4
+98  Task 4
+99  Task 4
+100  Task 3
+101  Task 3
+102  Task 3
+103  Task 3
+104  Task 3
+105  Aperiodic Task 4
+106  Aperiodic Task 4
+107  Task 1
+108  Task 1
+109  Task 1
+110  Task 3
+Task 1 pre-empted
+111  Task 3
+112  Task 3
+113  Task 3
+114  Task 3
+115  Task 1
+116  Task 1
+117  Task 1
+118  Task 1
+119  Idle
+120  Task 3
+121  Task 3
+122  Task 3
+123  Task 3
+124  Task 3
+125  Aperiodic Task 4
+126  Aperiodic Task 4
+127  Task 4
+128  Task 4
+129  Task 4
+130  Task 3
+131  Task 3
+132  Task 3
+133  Task 3
+134  Task 3
+135  Aperiodic Task 4
+136  Aperiodic Task 4
+137  Task 2
+138  Task 2
+139  Task 2
+140  Task 3
+Task 2 pre-empted
+141  Task 3
+142  Task 3
+143  Task 3
+144  Task 3
+145  Task 2
+146  Task 2
+147  Idle
+148  Idle
+149  Idle
+150  Task 3
+151  Task 3
+152  Task 3
+153  Task 3
+154  Task 3
+155  Aperiodic Task 5
+156  Aperiodic Task 5
+157  Task 4
+158  Task 4
+159  Task 4
+160  Task 3
+161  Task 3
+162  Task 3
+163  Task 3
+164  Task 3
+165  Aperiodic Task 5
+166  Aperiodic Task 5
+167  Task 2
+168  Task 2
+169  Task 2
+170  Task 3
+Task 2 pre-empted
+171  Task 3
+172  Task 3
+173  Task 3
+174  Task 3
+175  Task 2
+176  Task 2
+177  Task 1
+Task 2 pre-empted
+178  Task 1
+179  Task 1
+180  Task 3
+Task 1 pre-empted
+181  Task 3
+182  Task 3
+183  Task 3
+184  Task 3
+185  Task 4
+186  Task 4
+187  Task 4
+188  Task 1
+189  Task 1
+190  Task 3
+Task 1 pre-empted
+191  Task 3
+192  Task 3
+193  Task 3
+194  Task 3
+195  Task 1
+196  Task 1
+197  Task 1
+198  Task 1
+199  Task 1
+200  Task 3
+Task 1 pre-empted
+201  Task 3
+202  Task 3
+203  Task 3
+204  Task 3
+205  Task 2
+206  Task 2
+207  Task 2
+208  Task 2
+209  Task 2
+210  Task 3
+211  Task 3
+212  Task 3
+213  Task 3
+214  Task 3
+215  Task 4
+216  Task 4
+217  Task 4
+218  Idle
+219  Idle
+220  Task 3
+221  Task 3
+222  Task 3
+223  Task 3
+224  Task 3
+225  Task 1
+226  Task 1
+227  Task 1
+228  Task 1
+229  Task 1
+230  Task 3
+Task 1 pre-empted
+231  Task 3
+232  Task 3
+233  Task 3
+234  Task 3
+235  Task 1
+236  Task 1
+237  Task 1
+238  Task 1
+239  Task 1
+240  Task 3
+Task 1 pre-empted
+241  Task 3
+242  Task 3
+243  Task 3
+244  Task 3
+245  Task 4
+246  Task 4
+247  Task 4
+248  Task 2
+249  Task 2
+250  Task 3
+Task 2 pre-empted
+9 times Task1 got pre-empted
+8 times Task2 got pre-empted
+0 times Task3 got pre-empted
+0 times Task4 got pre-empted
+0 times Task5 got pre-empted
+1 times Task1 got dropped
+0 times Task2 got dropped
+0 times Task3 got dropped
+0 times Task4 got dropped
+0 times Task5 got dropped
+17 total pre-emptions in the given Task set
+1 total drops in the given Task set
+Average Response Time = 72.000000

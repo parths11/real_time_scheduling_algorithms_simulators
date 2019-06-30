@@ -1,0 +1,317 @@
+CPU Utilization 1.650000
+Schedule is not feasible
+0  Task 2 started
+1  Task 2
+2  Task 2
+3  Task 2
+4  Task 2
+5  Task 2
+6  Task 2
+7  Task 2
+Task 5 dropped
+8  Task 2
+9  Task 2
+Task 3 dropped
+10  Task 4 started
+11  Task 4
+12  Task 4
+13  Task 5 started
+Task 4 pre-empted
+14  Task 5
+15  Task 5
+16  Task 5
+17  Task 1 started
+Task 5 pre-empted
+18  Task 1
+19  Task 1
+20  Task 3 started
+Task 1 pre-empted
+21  Task 3
+22  Task 3
+23  Task 3
+24  Task 3
+25  Task 3
+26  Task 3
+27  Task 3
+28  Task 3
+29  Task 3
+30  Task 4 started
+Task 3 pre-empted
+31  Task 4
+Task 5 dropped
+32  Task 4
+33  Task 1
+Task 4 pre-empted
+34  Task 1
+35  Task 1
+36  Task 5 started
+Task 1 pre-empted
+37  Task 5
+38  Task 5
+39  Task 5
+40  Task 2 started
+Task 5 pre-empted
+41  Task 2
+42  Task 2
+43  Task 2
+44  Task 2
+45  Task 2
+Task 1 dropped
+46  Task 2
+47  Task 2
+48  Task 2
+49  Task 2
+50  Task 3 started
+51  Task 3
+52  Task 3
+53  Task 3
+54  Task 3
+55  Task 3
+Task 5 dropped
+56  Task 3
+57  Task 3
+58  Task 3
+59  Task 3
+60  Task 4 started
+Task 3 pre-empted
+61  Task 4
+62  Task 4
+63  Task 3 started
+Task 4 pre-empted
+64  Task 3
+65  Task 3
+66  Task 3
+67  Task 3
+Task 5 dropped
+68  Task 3
+69  Task 3
+70  Task 3
+71  Task 3
+72  Task 3
+73  Task 5 started
+74  Task 5
+75  Task 5
+76  Task 5
+77  Task 1 started
+Task 5 pre-empted
+78  Task 1
+79  Task 1
+80  Task 2 started
+Task 1 pre-empted
+81  Task 2
+82  Task 2
+83  Task 2
+84  Task 2
+85  Task 2
+86  Task 2
+87  Task 2
+88  Task 2
+89  Task 2
+Task 3 dropped
+90  Task 4 started
+91  Task 4
+Task 5 dropped
+92  Task 4
+93  Task 1
+Task 4 pre-empted
+94  Task 1
+95  Task 1
+96  Task 5 started
+Task 1 pre-empted
+97  Task 5
+98  Task 5
+99  Task 5
+100  Task 3 started
+Task 5 pre-empted
+101  Task 3
+102  Task 3
+103  Task 3
+104  Task 3
+105  Task 3
+106  Task 3
+107  Task 3
+108  Task 3
+109  Task 3
+110  Task 5 started
+Task 3 pre-empted
+111  Task 5
+112  Task 5
+113  Task 5
+114  Task 1
+Task 5 pre-empted
+115  Task 1
+116  Task 1
+117  Task 1
+118  Task 1
+119  Task 1
+120  Task 2 started
+Task 1 pre-empted
+121  Task 2
+122  Task 2
+123  Task 2
+124  Task 2
+125  Task 2
+126  Task 2
+Task 1 dropped
+127  Task 2
+Task 5 dropped
+128  Task 2
+129  Task 2
+Task 3 dropped
+130  Task 4 started
+131  Task 4
+132  Task 4
+133  Task 5 started
+Task 4 pre-empted
+134  Task 5
+135  Task 5
+136  Task 5
+137  Idle
+138  Idle
+139  Idle
+140  Task 3 started
+141  Task 3
+142  Task 3
+143  Task 3
+144  Task 3
+145  Task 3
+146  Task 3
+147  Task 3
+148  Task 3
+149  Task 3
+150  Task 4 started
+Task 3 pre-empted
+151  Task 4
+Task 5 dropped
+152  Task 4
+153  Task 1 started
+Task 4 pre-empted
+154  Task 1
+155  Task 1
+156  Task 5 started
+Task 1 pre-empted
+157  Task 5
+158  Task 5
+159  Task 5
+160  Task 2 started
+Task 5 pre-empted
+161  Task 2
+162  Task 2
+163  Task 2
+164  Task 2
+165  Task 2
+166  Task 2
+167  Task 2
+168  Task 2
+169  Task 2
+170  Task 3 started
+171  Task 3
+172  Task 3
+173  Task 3
+174  Task 3
+175  Task 3
+Task 5 dropped
+176  Task 3
+177  Task 3
+178  Task 3
+179  Task 3
+180  Task 4 started
+181  Task 4
+182  Task 4
+183  Task 3 started
+Task 4 pre-empted
+184  Task 3
+185  Task 3
+186  Task 3
+187  Task 3
+Task 5 dropped
+188  Task 3
+189  Task 3
+190  Task 3
+191  Task 3
+192  Task 3
+Task 1 dropped
+193  Task 5 started
+Task 3 pre-empted
+194  Task 5
+195  Task 5
+196  Task 5
+197  Idle
+198  Idle
+199  Idle
+200  Task 2 started
+201  Task 2
+202  Task 2
+203  Task 2
+204  Task 2
+205  Task 2
+206  Task 2
+207  Task 2
+208  Task 2
+209  Task 2
+Task 3 dropped
+210  Task 4 started
+211  Task 4
+Task 5 dropped
+212  Task 4
+213  Idle
+214  Idle
+215  Idle
+216  Task 5 started
+217  Task 5
+218  Task 5
+219  Task 5
+220  Task 3 started
+Task 5 pre-empted
+221  Task 3
+222  Task 3
+223  Task 3
+224  Task 3
+225  Task 3
+226  Task 3
+227  Task 3
+228  Task 3
+229  Task 3
+230  Task 5 started
+Task 3 pre-empted
+231  Task 5
+232  Task 5
+233  Task 5
+234  Task 1 started
+Task 5 pre-empted
+235  Task 1
+236  Task 1
+237  Task 1
+238  Task 1
+239  Task 1
+240  Task 2 started
+Task 1 pre-empted
+241  Task 2
+242  Task 2
+243  Task 2
+244  Task 2
+245  Task 2
+246  Task 2
+247  Task 2
+Task 5 dropped
+248  Task 2
+249  Task 2
+Task 3 dropped
+250  Task 4 started
+7 times Task1 got pre-empted
+0 times Task2 got pre-empted
+6 times Task3 got pre-empted
+7 times Task4 got pre-empted
+8 times Task5 got pre-empted
+11 times Task1 got dropped
+5 times Task2 got dropped
+0 times Task3 got dropped
+0 times Task4 got dropped
+3 times Task5 got dropped
+For 27 time units Task1 occurred
+For 70 time units Task2 occurred
+For 80 time units Task3 occurred
+For 25 time units Task4 occurred
+For 40 time units Task5 occurred
+28 total pre-emptions in the given Task set
+19 total drops in the given Task set

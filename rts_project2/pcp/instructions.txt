@@ -1,0 +1,26 @@
+
+-> this file contains the rm_pcp simulator
+
+-> the input task file should be named "question1_taskset.txt"
+
+-> the input resource file should be named "resource.txt"
+
+-> the following command should be used in the current directory to compile the simulator:
+	gcc my_func.c rm_pcp.c -o pcp
+	
+-> the following command should be usedin the current directory to run the simulator:
+	./pcp
+	
+-> the schedule is printed in the output file "schedule.txt"
+
+-> all the output stats for each task is in the files "output_taskid.txt" (if it says "self in any of these files, it means it has not inherited its priority from any task and is executing with its own priority)
+
+-> all the deadline misses have been accounted for in the file "deadline_misses.txt"
+
+-> in the file "schedule.txt" if it says "Task 1" it means it is the first task in the taskset and not the task with id 1 and so on.
+
+-> two input files one for the input taskset and one for the input resources is included in the folder. the output files for the same are in the folder "sample" which is included in this folder as well.
+
+-> all the codes for this simulator were run and tested on UBUNTU 16.04
+
+
